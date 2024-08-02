@@ -1,0 +1,3 @@
+Round: 1, Reward: +768.49
+Round: 2, Reward: +910.50
+Round: 3, Reward: +911.30
