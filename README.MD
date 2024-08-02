@@ -184,3 +184,4 @@ The results showed that the trained models could effectively control the car, ev
 3. Install the project dependencies by running: pip install -r requirements.txt
 4. (IN PROGRESS) Finally, use the "dvc pull" command to download the files 
    versioned with DVC.
+5. (IN PROGRESS) Modify main.py customizable variables and run the script.

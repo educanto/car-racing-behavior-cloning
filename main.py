@@ -830,12 +830,12 @@ if __name__ == "__main__":
     # Manual = True to control the car manually
     # Manual = False to let the model control the car
     #############
-    manual = True
+    manual = False
     save_datapoints = False
     save_scores = False
     rounds = 3
 
-    model_path = 'models/model_alt'
+    model_path = 'models/model_3'
     #############
 
     model = tf.keras.models.load_model(model_path, compile=False)
