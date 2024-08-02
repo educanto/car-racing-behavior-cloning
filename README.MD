@@ -182,4 +182,5 @@ The results showed that the trained models could effectively control the car, ev
 1. Make sure you have Python 3.10 installed on your computer.
 2. Clone the repository.
 3. Install the project dependencies by running: pip install -r requirements.txt
-4. Finally, use the "dvc pull" command to download the files versioned with DVC.
+4. (IN PROGRESS) Finally, use the "dvc pull" command to download the files 
+   versioned with DVC.
